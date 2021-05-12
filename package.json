@@ -44,7 +44,7 @@
 		"mocha": "^5.2.0",
 		"mochawesome": "^4.1.0",
 		"node-sass": "^4.12.0",
-		"postcss": "^7.0.17",
+		"postcss": "^8.2.10",
 		"postcss-css-variables": "^0.12.0",
 		"postcss-import": "^12.0.1",
 		"postcss-loader": "^3.0.0",
